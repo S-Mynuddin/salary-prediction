@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        .form-container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+        .form-container input {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0 20px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .form-container input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+        }
+        .form-container input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .result {
+            font-size: 1.5em;
+            color: #4CAF50;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Expected salary</h2>
+        <form action="/predict" method="post">
+             <!--
+            <label for="IQ">Company:</label>
+            <input type="number" name="IQ" required>
+           
+            <label for="CGPA">CGPA:</label>
+            <input type="number" step="0.01" name="CGPA" required>
+           
+            <label for="10th_Marks">10th Marks:</label>
+            <input type="number" name="10th_Marks" required>
+
+            <label for="12th_Marks">Job:</label>
+            <input type="number" name="12th_Marks" required>
+            
+            <label for="Communication_Skills">Degree:</label>
+            <input type="number" name="Communication_Skills" required>
+             -->
+             
+             <label for="dropdown">Company:&nbsp;</label>
+             <select id="dropdown" name="dropdown" onchange="updateNumericValue()" required>
+                  <option value="">--Select an option--</option>
+                  <option value="0">Google</option>
+                  <option value="1">ABC Pharma</option>
+                  <option value="2">Facebook</option>
+            </select><br><br>
+            <label for="dropdown1">Job title:&nbsp;&nbsp;&nbsp;</label>
+             <select id="dropdown1" name="dropdown1" onchange="updateNumericValue()" required>
+                  <option value="">--Select an option--</option>
+                  <option value="0">Sales executive</option>
+                  <option value="1">Business manager</option>
+                  <option value="2">Computer programmer</option>
+            </select><br><br>
+            <label for="dropdown2">Education:</label>
+             <select id="dropdown2" name="dropdown2" onchange="updateNumericValue()" required>
+                  <option value="">--Select an option--</option>
+                  <option value="0">bachelors</option>
+                  <option value="1">masters</option>
+            </select><br><br>       
+                       
+            
+            <input type="submit" value="Predict">
+        </form>
+        {% if prediction_text %}
+        <div class="result">{{ prediction_text }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
