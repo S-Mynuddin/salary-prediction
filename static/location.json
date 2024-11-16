@@ -1,0 +1,926 @@
+[
+  {
+    "value":0,
+    "text":"1st Block Jayanagar"
+  },
+  {
+    "value":1,
+    "text":"1st Phase JP Nagar"
+  },
+  {
+    "value":2,
+    "text":"2nd Stage Nagarbhavi"
+  },
+  {
+    "value":3,
+    "text":"5th Block Hbr Layout"
+  },
+  {
+    "value":4,
+    "text":"5th Phase JP Nagar"
+  },
+  {
+    "value":5,
+    "text":"6th Phase JP Nagar"
+  },
+  {
+    "value":6,
+    "text":"7th Phase JP Nagar"
+  },
+  {
+    "value":7,
+    "text":"8th Phase JP Nagar"
+  },
+  {
+    "value":8,
+    "text":"9th Phase JP Nagar"
+  },
+  {
+    "value":9,
+    "text":"AECS Layout"
+  },
+  {
+    "value":10,
+    "text":"Abbigere"
+  },
+  {
+    "value":11,
+    "text":"Akshaya Nagar"
+  },
+  {
+    "value":12,
+    "text":"Ambalipura"
+  },
+  {
+    "value":13,
+    "text":"Ambedkar Nagar"
+  },
+  {
+    "value":14,
+    "text":"Amruthahalli"
+  },
+  {
+    "value":15,
+    "text":"Anandapura"
+  },
+  {
+    "value":16,
+    "text":"Ananth Nagar"
+  },
+  {
+    "value":17,
+    "text":"Anekal"
+  },
+  {
+    "value":18,
+    "text":"Anjanapura"
+  },
+  {
+    "value":19,
+    "text":"Ardendale"
+  },
+  {
+    "value":20,
+    "text":"Arekere"
+  },
+  {
+    "value":21,
+    "text":"Attibele"
+  },
+  {
+    "value":22,
+    "text":"BTM 2nd Stage"
+  },
+  {
+    "value":23,
+    "text":"BTM Layout"
+  },
+  {
+    "value":24,
+    "text":"Babusapalaya"
+  },
+  {
+    "value":25,
+    "text":"Balagere"
+  },
+  {
+    "value":26,
+    "text":"Banashankari"
+  },
+  {
+    "value":27,
+    "text":"Banashankari Stage II"
+  },
+  {
+    "value":28,
+    "text":"Banashankari Stage III"
+  },
+  {
+    "value":29,
+    "text":"Banashankari Stage V"
+  },
+  {
+    "value":30,
+    "text":"Banashankari Stage VI"
+  },
+  {
+    "value":31,
+    "text":"Banaswadi"
+  },
+  {
+    "value":32,
+    "text":"Banjara Layout"
+  },
+  {
+    "value":33,
+    "text":"Bannerghatta"
+  },
+  {
+    "value":34,
+    "text":"Bannerghatta Road"
+  },
+  {
+    "value":35,
+    "text":"Basavangudi"
+  },
+  {
+    "value":36,
+    "text":"Basaveshwara Nagar"
+  },
+  {
+    "value":37,
+    "text":"Battarahalli"
+  },
+  {
+    "value":38,
+    "text":"Begur"
+  },
+  {
+    "value":39,
+    "text":"Begur Road"
+  },
+  {
+    "value":40,
+    "text":"Bellandur"
+  },
+  {
+    "value":41,
+    "text":"Benson Town"
+  },
+  {
+    "value":42,
+    "text":"Bharathi Nagar"
+  },
+  {
+    "value":43,
+    "text":"Bhoganhalli"
+  },
+  {
+    "value":44,
+    "text":"Billekahalli"
+  },
+  {
+    "value":45,
+    "text":"Binny Pete"
+  },
+  {
+    "value":46,
+    "text":"Bisuvanahalli"
+  },
+  {
+    "value":47,
+    "text":"Bommanahalli"
+  },
+  {
+    "value":48,
+    "text":"Bommasandra"
+  },
+  {
+    "value":49,
+    "text":"Bommasandra Industrial Area"
+  },
+  {
+    "value":50,
+    "text":"Bommenahalli"
+  },
+  {
+    "value":51,
+    "text":"Brookefield"
+  },
+  {
+    "value":52,
+    "text":"Budigere"
+  },
+  {
+    "value":53,
+    "text":"CV Raman Nagar"
+  },
+  {
+    "value":54,
+    "text":"Chamrajpet"
+  },
+  {
+    "value":55,
+    "text":"Chandapura"
+  },
+  {
+    "value":56,
+    "text":"Channasandra"
+  },
+  {
+    "value":57,
+    "text":"Chikka Tirupathi"
+  },
+  {
+    "value":58,
+    "text":"Chikkabanavar"
+  },
+  {
+    "value":59,
+    "text":"Chikkalasandra"
+  },
+  {
+    "value":60,
+    "text":"Choodasandra"
+  },
+  {
+    "value":61,
+    "text":"Cooke Town"
+  },
+  {
+    "value":62,
+    "text":"Cox Town"
+  },
+  {
+    "value":63,
+    "text":"Dasanapura"
+  },
+  {
+    "value":64,
+    "text":"Dasarahalli"
+  },
+  {
+    "value":65,
+    "text":"Devanahalli"
+  },
+  {
+    "value":66,
+    "text":"Devarachikkanahalli"
+  },
+  {
+    "value":67,
+    "text":"Dodda Nekkundi"
+  },
+  {
+    "value":68,
+    "text":"Doddaballapur"
+  },
+  {
+    "value":69,
+    "text":"Doddakallasandra"
+  },
+  {
+    "value":70,
+    "text":"Doddathoguru"
+  },
+  {
+    "value":71,
+    "text":"Domlur"
+  },
+  {
+    "value":72,
+    "text":"Dommasandra"
+  },
+  {
+    "value":73,
+    "text":"EPIP Zone"
+  },
+  {
+    "value":74,
+    "text":"Electronic City"
+  },
+  {
+    "value":75,
+    "text":"Electronic City Phase II"
+  },
+  {
+    "value":76,
+    "text":"Electronics City Phase 1"
+  },
+  {
+    "value":77,
+    "text":"Frazer Town"
+  },
+  {
+    "value":78,
+    "text":"GM Palaya"
+  },
+  {
+    "value":79,
+    "text":"Garudachar Palya"
+  },
+  {
+    "value":80,
+    "text":"Giri Nagar"
+  },
+  {
+    "value":81,
+    "text":"Gollarapalya Hosahalli"
+  },
+  {
+    "value":82,
+    "text":"Gottigere"
+  },
+  {
+    "value":83,
+    "text":"Green Glen Layout"
+  },
+  {
+    "value":84,
+    "text":"Gubbalala"
+  },
+  {
+    "value":85,
+    "text":"Gunjur"
+  },
+  {
+    "value":86,
+    "text":"HAL 2nd Stage"
+  },
+  {
+    "value":87,
+    "text":"HBR Layout"
+  },
+  {
+    "value":88,
+    "text":"HRBR Layout"
+  },
+  {
+    "value":89,
+    "text":"HSR Layout"
+  },
+  {
+    "value":90,
+    "text":"Haralur Road"
+  },
+  {
+    "value":91,
+    "text":"Harlur"
+  },
+  {
+    "value":92,
+    "text":"Hebbal"
+  },
+  {
+    "value":93,
+    "text":"Hebbal Kempapura"
+  },
+  {
+    "value":94,
+    "text":"Hegde Nagar"
+  },
+  {
+    "value":95,
+    "text":"Hennur"
+  },
+  {
+    "value":96,
+    "text":"Hennur Road"
+  },
+  {
+    "value":97,
+    "text":"Hoodi"
+  },
+  {
+    "value":98,
+    "text":"Horamavu Agara"
+  },
+  {
+    "value":99,
+    "text":"Horamavu Banaswadi"
+  },
+  {
+    "value":100,
+    "text":"Hormavu"
+  },
+  {
+    "value":101,
+    "text":"Hosa Road"
+  },
+  {
+    "value":102,
+    "text":"Hosakerehalli"
+  },
+  {
+    "value":103,
+    "text":"Hoskote"
+  },
+  {
+    "value":104,
+    "text":"Hosur Road"
+  },
+  {
+    "value":105,
+    "text":"Hulimavu"
+  },
+  {
+    "value":106,
+    "text":"ISRO Layout"
+  },
+  {
+    "value":107,
+    "text":"Iblur Village"
+  },
+  {
+    "value":108,
+    "text":"Indira Nagar"
+  },
+  {
+    "value":109,
+    "text":"JP Nagar"
+  },
+  {
+    "value":110,
+    "text":"Jakkur"
+  },
+  {
+    "value":111,
+    "text":"Jalahalli"
+  },
+  {
+    "value":112,
+    "text":"Jalahalli East"
+  },
+  {
+    "value":113,
+    "text":"Jigani"
+  },
+  {
+    "value":114,
+    "text":"Judicial Layout"
+  },
+  {
+    "value":115,
+    "text":"KR Puram"
+  },
+  {
+    "value":116,
+    "text":"Kadubeesanahalli"
+  },
+  {
+    "value":117,
+    "text":"Kadugodi"
+  },
+  {
+    "value":118,
+    "text":"Kaggadasapura"
+  },
+  {
+    "value":119,
+    "text":"Kaggalipura"
+  },
+  {
+    "value":120,
+    "text":"Kaikondrahalli"
+  },
+  {
+    "value":121,
+    "text":"Kalena Agrahara"
+  },
+  {
+    "value":122,
+    "text":"Kalyan nagar"
+  },
+  {
+    "value":123,
+    "text":"Kambipura"
+  },
+  {
+    "value":124,
+    "text":"Kammanahalli"
+  },
+  {
+    "value":125,
+    "text":"Kammasandra"
+  },
+  {
+    "value":126,
+    "text":"Kanakapura"
+  },
+  {
+    "value":127,
+    "text":"Kanakpura Road"
+  },
+  {
+    "value":128,
+    "text":"Kannamangala"
+  },
+  {
+    "value":129,
+    "text":"Karuna Nagar"
+  },
+  {
+    "value":130,
+    "text":"Kasavanhalli"
+  },
+  {
+    "value":131,
+    "text":"Kasturi Nagar"
+  },
+  {
+    "value":132,
+    "text":"Kathriguppe"
+  },
+  {
+    "value":133,
+    "text":"Kaval Byrasandra"
+  },
+  {
+    "value":134,
+    "text":"Kenchenahalli"
+  },
+  {
+    "value":135,
+    "text":"Kengeri"
+  },
+  {
+    "value":136,
+    "text":"Kengeri Satellite Town"
+  },
+  {
+    "value":137,
+    "text":"Kereguddadahalli"
+  },
+  {
+    "value":138,
+    "text":"Kodichikkanahalli"
+  },
+  {
+    "value":139,
+    "text":"Kodigehaali"
+  },
+  {
+    "value":140,
+    "text":"Kodigehalli"
+  },
+  {
+    "value":141,
+    "text":"Kodihalli"
+  },
+  {
+    "value":142,
+    "text":"Kogilu"
+  },
+  {
+    "value":143,
+    "text":"Konanakunte"
+  },
+  {
+    "value":144,
+    "text":"Koramangala"
+  },
+  {
+    "value":145,
+    "text":"Kothannur"
+  },
+  {
+    "value":146,
+    "text":"Kothanur"
+  },
+  {
+    "value":147,
+    "text":"Kudlu"
+  },
+  {
+    "value":148,
+    "text":"Kudlu Gate"
+  },
+  {
+    "value":149,
+    "text":"Kumaraswami Layout"
+  },
+  {
+    "value":150,
+    "text":"Kundalahalli"
+  },
+  {
+    "value":151,
+    "text":"LB Shastri Nagar"
+  },
+  {
+    "value":152,
+    "text":"Laggere"
+  },
+  {
+    "value":153,
+    "text":"Lakshminarayana Pura"
+  },
+  {
+    "value":154,
+    "text":"Lingadheeranahalli"
+  },
+  {
+    "value":155,
+    "text":"Magadi Road"
+  },
+  {
+    "value":156,
+    "text":"Mahadevpura"
+  },
+  {
+    "value":157,
+    "text":"Mahalakshmi Layout"
+  },
+  {
+    "value":158,
+    "text":"Mallasandra"
+  },
+  {
+    "value":159,
+    "text":"Malleshpalya"
+  },
+  {
+    "value":160,
+    "text":"Malleshwaram"
+  },
+  {
+    "value":161,
+    "text":"Marathahalli"
+  },
+  {
+    "value":162,
+    "text":"Margondanahalli"
+  },
+  {
+    "value":163,
+    "text":"Mico Layout"
+  },
+  {
+    "value":164,
+    "text":"Munnekollal"
+  },
+  {
+    "value":165,
+    "text":"Murugeshpalya"
+  },
+  {
+    "value":166,
+    "text":"Mysore Road"
+  },
+  {
+    "value":167,
+    "text":"NGR Layout"
+  },
+  {
+    "value":168,
+    "text":"NRI Layout"
+  },
+  {
+    "value":169,
+    "text":"Nagarbhavi"
+  },
+  {
+    "value":170,
+    "text":"Nagasandra"
+  },
+  {
+    "value":171,
+    "text":"Nagavara"
+  },
+  {
+    "value":172,
+    "text":"Nagavarapalya"
+  },
+  {
+    "value":173,
+    "text":"Neeladri Nagar"
+  },
+  {
+    "value":174,
+    "text":"Nehru Nagar"
+  },
+  {
+    "value":175,
+    "text":"OMBR Layout"
+  },
+  {
+    "value":176,
+    "text":"Old Airport Road"
+  },
+  {
+    "value":177,
+    "text":"Old Madras Road"
+  },
+  {
+    "value":178,
+    "text":"Padmanabhanagar"
+  },
+  {
+    "value":179,
+    "text":"Pai Layout"
+  },
+  {
+    "value":180,
+    "text":"Panathur"
+  },
+  {
+    "value":181,
+    "text":"Prithvi Layout"
+  },
+  {
+    "value":182,
+    "text":"R.T. Nagar"
+  },
+  {
+    "value":183,
+    "text":"Rachenahalli"
+  },
+  {
+    "value":184,
+    "text":"Raja Rajeshwari Nagar"
+  },
+  {
+    "value":185,
+    "text":"Rajaji Nagar"
+  },
+  {
+    "value":186,
+    "text":"Rajiv Nagar"
+  },
+  {
+    "value":187,
+    "text":"Ramagondanahalli"
+  },
+  {
+    "value":188,
+    "text":"Ramamurthy Nagar"
+  },
+  {
+    "value":189,
+    "text":"Rayasandra"
+  },
+  {
+    "value":190,
+    "text":"Sahakara Nagar"
+  },
+  {
+    "value":191,
+    "text":"Sanjay nagar"
+  },
+  {
+    "value":192,
+    "text":"Sarakki Nagar"
+  },
+  {
+    "value":193,
+    "text":"Sarjapur"
+  },
+  {
+    "value":194,
+    "text":"Sarjapur  Road"
+  },
+  {
+    "value":195,
+    "text":"Sarjapura - Attibele Road"
+  },
+  {
+    "value":196,
+    "text":"Sector 2 HSR Layout"
+  },
+  {
+    "value":197,
+    "text":"Sector 7 HSR Layout"
+  },
+  {
+    "value":198,
+    "text":"Seegehalli"
+  },
+  {
+    "value":199,
+    "text":"Shampura"
+  },
+  {
+    "value":200,
+    "text":"Shivaji Nagar"
+  },
+  {
+    "value":201,
+    "text":"Singasandra"
+  },
+  {
+    "value":202,
+    "text":"Somasundara Palya"
+  },
+  {
+    "value":203,
+    "text":"Sompura"
+  },
+  {
+    "value":204,
+    "text":"Sonnenahalli"
+  },
+  {
+    "value":205,
+    "text":"Subramanyapura"
+  },
+  {
+    "value":206,
+    "text":"Sultan Palaya"
+  },
+  {
+    "value":207,
+    "text":"TC Palaya"
+  },
+  {
+    "value":208,
+    "text":"Talaghattapura"
+  },
+  {
+    "value":209,
+    "text":"Thanisandra"
+  },
+  {
+    "value":210,
+    "text":"Thigalarapalya"
+  },
+  {
+    "value":211,
+    "text":"Thubarahalli"
+  },
+  {
+    "value":212,
+    "text":"Thyagaraja Nagar"
+  },
+  {
+    "value":213,
+    "text":"Tindlu"
+  },
+  {
+    "value":214,
+    "text":"Tumkur Road"
+  },
+  {
+    "value":215,
+    "text":"Ulsoor"
+  },
+  {
+    "value":216,
+    "text":"Uttarahalli"
+  },
+  {
+    "value":217,
+    "text":"Varthur"
+  },
+  {
+    "value":218,
+    "text":"Varthur Road"
+  },
+  {
+    "value":219,
+    "text":"Vidyaranyapura"
+  },
+  {
+    "value":220,
+    "text":"Vijayanagar"
+  },
+  {
+    "value":221,
+    "text":"Vishveshwarya Layout"
+  },
+  {
+    "value":222,
+    "text":"Vishwapriya Layout"
+  },
+  {
+    "value":223,
+    "text":"Vittasandra"
+  },
+  {
+    "value":224,
+    "text":"Whitefield"
+  },
+  {
+    "value":225,
+    "text":"Yelachenahalli"
+  },
+  {
+    "value":226,
+    "text":"Yelahanka"
+  },
+  {
+    "value":227,
+    "text":"Yelahanka New Town"
+  },
+  {
+    "value":228,
+    "text":"Yelenahalli"
+  },
+  {
+    "value":229,
+    "text":"Yeshwanthpur"
+  },
+  {
+    "value":230,
+    "text":"other"
+  }
+]

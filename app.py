@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 # Load the trained model
-model_path = 'salaries.pickle'
+model_path = 'House_prices2.pickle'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
@@ -23,9 +23,9 @@ def predict():
     
     # Make prediction
     prediction = model.predict(final_features)
-    output = 'salary more then 100k' if prediction[0] == 0 else 'salary less then 100k'
-
-    return render_template('index.html', prediction_text='Prediction: {}'.format(output))
+    #output = 'salary more then 100k' if prediction[0] == 0 else 'salary less then 100k'
+    output = round(prediction[0],2)
+    return render_template('index.html', prediction_text='Prediction (Per sq-ft price $) : {}'.format(output))
 
 if __name__ == "__main__":
     app.run(debug=True)
